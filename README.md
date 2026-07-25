@@ -61,6 +61,10 @@ The workflow followed in this project is:
 
 ---
 
+## References
+
+- Youtube video on Git and GitHub
+
 ## Author
 
 **Gloriya Topno**
