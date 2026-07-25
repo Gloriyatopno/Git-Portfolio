@@ -1,0 +1,28 @@
+Week 1 Learning Summary
+
+During Week 1, I learned the fundamentals of Git and GitHub.
+
+I understood what version control is and why Git is used to track changes in projects.
+
+I learned how to:
+- Initialize a Git repository using git init.
+- Check the repository status with git status.
+- Stage files using git add.
+- Save changes with git commit.
+- View commit history using git log.
+
+I also learned about GitHub and how to:
+- Create and push repositories.
+- Clone repositories.
+- Create, switch, and manage branches.
+- Merge branches into the main branch.
+- Push and pull changes between local and remote repositories.
+
+I practiced collaboration by:
+- Creating Pull Requests.
+- Understanding merge conflicts.
+- Resolving merge conflicts.
+- Updating README.md files.
+- Using .gitignore to ignore unnecessary files.
+
+Overall, Week 1 helped me build a strong foundation in Git and GitHub, and I now feel confident using them to manage projects and collaborate with others.
