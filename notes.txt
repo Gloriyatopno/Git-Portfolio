@@ -15,3 +15,4 @@ To add on GitHub Repository
 Git Branches
 
 A branch allows developers to work on features independently without affecting the main code.
+Git allows multiple developers to work on the same project efficiently.
