@@ -25,4 +25,14 @@ I practiced collaboration by:
 - Updating README.md files.
 - Using .gitignore to ignore unnecessary files.
 
+GitHub Features
+
+-Learned how Pull Requests are used for code review.
+-Understood the importance of keeping repositories organized with a good README.md.
+
+Good Practices
+
+-Used .gitignore to prevent unnecessary files from being tracked.
+-Learned not to upload sensitive files such as .env.
+
 Overall, Week 1 helped me build a strong foundation in Git and GitHub, and I now feel confident using them to manage projects and collaborate with others.
