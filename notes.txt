@@ -1,0 +1,17 @@
+Git Repository Notes
+
+- To Initialize Git : git Initialize
+- To check Git Status : git status (red text means not committed, green means committing state)
+- To add Files to commit : git add text1.text
+- To add Commit Message(In present tense) : git commit -m "Initial Commit" 
+- To check commit time and Message : git log
+
+To add on GitHub Repository
+- copy the setup id code 
+- git log (to see how many commits made)
+- git remote add origin Paste_url (origin- name of the repository(recommended))
+- git push -u origin main (this uploads local repository to remote repository in GitHub)
+
+Git Branches
+
+A branch allows developers to work on features independently without affecting the main code.
