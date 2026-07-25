@@ -1,3 +1,10 @@
 # Git Portfolio
 
-A repository created to practice Git and GitHub concepts.
+## About
+This repository demonstrates my understanding of Git and GitHub.
+
+## Contents
+- Git Basics
+- Branching
+- Merging
+- Pull Requests
