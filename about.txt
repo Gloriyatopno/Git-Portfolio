@@ -1,0 +1,3 @@
+Name: Gloriya Topno
+Course: Internship
+Goal: Learn Git and GitHub and become a Full Stack Developer.
